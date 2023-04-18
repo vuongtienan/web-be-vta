@@ -204,7 +204,7 @@ class PostController {
                         } else {
                             res.json({
                                 status: true,
-                                message: 'tao post tahnhcong'
+                                message: 'tao post thanh cong'
                             })
                         }
                     })
