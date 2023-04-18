@@ -28,11 +28,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buimanh1711/expressAPI.git"
+    "url": "git+https://github.com/vuongtienan/bctn-vta.git"
   },
   "bugs": {
-    "url": "https://github.com/buimanh1711/expressAPI/issues"
+    "url": "https://github.com/vuongtienan/bctn-vta/issues"
   },
-  "homepage": "https://github.com/buimanh1711/expressAPI#readme",
+  "homepage": "https://github.com/vuongtienan/bctn-vta#readme",
   "description": ""
 }
