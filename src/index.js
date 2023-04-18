@@ -31,7 +31,7 @@ app.use('/api', createProxyMiddleware({
 db.connect()
 
 app.get('/', (req, res) => {
-    res.send('manh')
+    res.send('An')
 })
 
 // io.on('connection', (socket) => {
